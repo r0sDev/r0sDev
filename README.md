@@ -5,7 +5,7 @@
 </h1>
 
 
-<h3 align="center">A software developer from Buenos Aires</h3>
+<h3 align="center">An IT Technical from Buenos Aires</h3>
 
 <br/>
 
