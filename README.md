@@ -22,7 +22,7 @@
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=c,bash,Vim,Nixos"/>
+    <img src="https://skillicons.dev/icons?i=c,bash,nvim,linux"/>
     <br>
 </div>
 
