@@ -20,7 +20,7 @@
 <h2 align="center">Things i use</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=c,bash,vim,linux,nixos"/>
+    <img src="https://skillicons.dev/icons?i=c,bash,vim,linux"/>
     <br>
 </div>
 
