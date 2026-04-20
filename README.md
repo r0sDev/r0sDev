@@ -5,24 +5,22 @@
 </h1>
 
 
-<h3 align="center">An IT Technician from Buenos Aires</h3>
+<h3 align="center">An It technician who likes linux</h3>
 
 <br/>
 
 <div align="center">
  
- 🔭 I’m currently working at Dominium Ar
- 
- 🌱 I’m currently learning **Rust**
+  working at Dominium Ar
 
 
  </div>
  <hr/>
  
-<h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
+<h2 align="center">Things i use</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=c,bash,vim,linux"/>
+    <img src="https://skillicons.dev/icons?i=c,bash,vim,linux,nixos"/>
     <br>
 </div>
 
